@@ -1,3 +1,4 @@
+layout_spectrum: 0.32724332832731307
 typography_spectrum: 0.23477053362876177
 color:
   brandStrength: 0.7491783301811665
@@ -5,12 +6,9 @@ color:
   saturation: 0.08929394674487412
   rhythmicContrast: 0.8984036617912352
   brandColors:
-    - '#7D8A2E'
-    - '#C9D787'
-    - '#FFFFFF'
-    - '#FFC0A9'
-    - '#FF8598'
-layout_spectrum: 0.32724332832731307
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
 name: crushing
-title: crushing
-description: '#crushallhumans'
