@@ -1,4 +1,3 @@
-layout_spectrum: 0.32724332832731307
 typography_spectrum: 0.23477053362876177
 color:
   brandStrength: 0.7491783301811665
@@ -11,4 +10,6 @@ color:
     - '#FFFFFF'
     - '#FFC0A9'
     - '#FF8598'
+layout_spectrum: 0.32724332832731307
 name: crushing
+title: crushing
